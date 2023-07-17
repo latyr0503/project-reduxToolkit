@@ -12,3 +12,7 @@ Télécharger Redux DevTools
 ** JSON-SERVER ** 
 npm i -g json-server
 "json-server --w db.json" || "npm run server"
+
+
+** URL du tuto **
+https://youtu.be/hWLFTtcnEOs 
